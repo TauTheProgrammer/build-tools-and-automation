@@ -1,0 +1,9 @@
+{
+  "name": "jenkins",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Hypnotik1/jenkins.git",
+  "author": "Ryan Scott <ryan.c.scott@leidos.com>",
+  "license": "MIT",
+  "private": true
+}
